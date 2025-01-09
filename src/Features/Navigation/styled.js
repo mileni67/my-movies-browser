@@ -10,19 +10,17 @@ export const NavigationContainer = styled.div`
 
 export const NavigationWrapper = styled.nav`
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  text-align: center;
-  flex-shrink: 0;
+  padding: 0 192px;
 `;
 
 export const List = styled.ul`
   display: flex;
-  justify-content: center;
   list-style-type: none;
-  gap: 16px;
-  flex-shrink: 0;
-  padding-left: 80px;
-  padding-right: 12px;
+  gap: 40px;
+  margin-left: 90px;
+  padding: 0;
 `;
 
 export const Item = styled.li`
