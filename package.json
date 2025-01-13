@@ -2,7 +2,7 @@
   "name": "my-movies-browser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mileni67.github.io/my-movies-browser/",
+  "homepage": "https://mileni67.github.io/my-movies-browser",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
